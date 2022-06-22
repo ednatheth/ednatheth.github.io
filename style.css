@@ -1,0 +1,72 @@
+h1 {
+    text-align: center;
+    background-color: #00205b;
+    color: #b7c9d3;
+    font-size: 50px;
+}
+
+h2 {
+    text-align: center;
+    background-color: #b7c9d3;
+    color: #00205b;
+    font-size: 30px;
+}
+
+
+#text-wright{
+    font-size: 16px;
+}
+#wright-img {
+    text-align: center;
+}
+
+#container-Beluga-antonov {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 50px;
+}
+
+.text-image {
+    margin-left: 50px;
+    margin-right: 25px;
+
+}
+
+#container-airbus-boeing {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+#container-compagnie {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 450px;
+}
+
+#logo-swiss {
+    text-align: center;
+}
+
+#text-swiss {
+    font-size: 16px;
+}
+
+.titre-avion {
+    font-size: 20px;
+    color: ;
+}
+
+#video {
+    text-align: center;
+}
+
+#text-site {
+    font-family: Georgia, Times, "Times New Roman", serif;
+}
